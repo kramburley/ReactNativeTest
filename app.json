@@ -8,6 +8,22 @@
       "expo-router"
     ],
     "name": "HomeTracker",
-    "slug": "HomeTracker"
+    "slug": "HomeTracker",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "20a4df8f-5ce6-46d1-b253-dba3f63ea7fd"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/20a4df8f-5ce6-46d1-b253-dba3f63ea7fd"
+    },
+    "android": {},
+    "ios": {}
   }
 }
